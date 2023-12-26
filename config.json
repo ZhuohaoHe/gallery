@@ -1,37 +1,71 @@
 {
-  "A Foggy Day": [
+  "Mockups": [],
+  "Toronto": [
     {
-      "width": 2150,
-      "height": 1721,
-      "path": "./photos/A Foggy Day/9C59A146-AD09-4AD9-BE62-4A36BF52EF62.jpeg",
-      "compressed_path": "./photos/A Foggy Day/9C59A146-AD09-4AD9-BE62-4A36BF52EF62.min.jpeg",
-      "compressed": true,
-      "placeholder_path": "./photos/A Foggy Day/9C59A146-AD09-4AD9-BE62-4A36BF52EF62.placeholder.jpeg"
+      "width": 2088,
+      "height": 1670,
+      "path": "./photos/Toronto/DSCF9563.jpg",
+      "compressed_path": "./photos/Toronto/DSCF9563.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Toronto/DSCF9563.placeholder.jpg"
+    }
+  ],
+  "A Foggy Day   (Dec 25 2023)": [
+    {
+      "width": 2128,
+      "height": 1703,
+      "path": "./photos/A Foggy Day   (Dec 25 2023)/DSCF9599.jpg",
+      "compressed_path": "./photos/A Foggy Day   (Dec 25 2023)/DSCF9599.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/A Foggy Day   (Dec 25 2023)/DSCF9599.placeholder.jpg"
     },
     {
       "width": 2128,
       "height": 1703,
-      "path": "./photos/A Foggy Day/6BA50E22-61C3-474A-ACE9-49E7D115EEDF.jpeg",
-      "compressed_path": "./photos/A Foggy Day/6BA50E22-61C3-474A-ACE9-49E7D115EEDF.min.jpeg",
-      "compressed": true,
-      "placeholder_path": "./photos/A Foggy Day/6BA50E22-61C3-474A-ACE9-49E7D115EEDF.placeholder.jpeg"
+      "path": "./photos/A Foggy Day   (Dec 25 2023)/DSCF9606.jpg",
+      "compressed_path": "./photos/A Foggy Day   (Dec 25 2023)/DSCF9606.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/A Foggy Day   (Dec 25 2023)/DSCF9606.placeholder.jpg"
+    },
+    {
+      "width": 2128,
+      "height": 1703,
+      "path": "./photos/A Foggy Day   (Dec 25 2023)/DSCF9628.jpg",
+      "compressed_path": "./photos/A Foggy Day   (Dec 25 2023)/DSCF9628.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/A Foggy Day   (Dec 25 2023)/DSCF9628.placeholder.jpg"
+    },
+    {
+      "width": 2150,
+      "height": 1721,
+      "path": "./photos/A Foggy Day   (Dec 25 2023)/9C59A146-AD09-4AD9-BE62-4A36BF52EF62.jpeg",
+      "compressed_path": "./photos/A Foggy Day   (Dec 25 2023)/9C59A146-AD09-4AD9-BE62-4A36BF52EF62.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/A Foggy Day   (Dec 25 2023)/9C59A146-AD09-4AD9-BE62-4A36BF52EF62.placeholder.jpeg"
+    },
+    {
+      "width": 2128,
+      "height": 1703,
+      "path": "./photos/A Foggy Day   (Dec 25 2023)/6BA50E22-61C3-474A-ACE9-49E7D115EEDF.jpeg",
+      "compressed_path": "./photos/A Foggy Day   (Dec 25 2023)/6BA50E22-61C3-474A-ACE9-49E7D115EEDF.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/A Foggy Day   (Dec 25 2023)/6BA50E22-61C3-474A-ACE9-49E7D115EEDF.placeholder.jpeg"
     },
     {
       "width": 1702,
       "height": 2128,
-      "path": "./photos/A Foggy Day/2C2078C2-6BA6-40F6-B6C6-158503DCE38C.jpeg",
-      "compressed_path": "./photos/A Foggy Day/2C2078C2-6BA6-40F6-B6C6-158503DCE38C.min.jpeg",
-      "compressed": true,
-      "placeholder_path": "./photos/A Foggy Day/2C2078C2-6BA6-40F6-B6C6-158503DCE38C.placeholder.jpeg"
+      "path": "./photos/A Foggy Day   (Dec 25 2023)/2C2078C2-6BA6-40F6-B6C6-158503DCE38C.jpeg",
+      "compressed_path": "./photos/A Foggy Day   (Dec 25 2023)/2C2078C2-6BA6-40F6-B6C6-158503DCE38C.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/A Foggy Day   (Dec 25 2023)/2C2078C2-6BA6-40F6-B6C6-158503DCE38C.placeholder.jpeg"
     },
     {
       "width": 2128,
       "height": 1703,
-      "path": "./photos/A Foggy Day/6DCDB4BD-1263-4DFB-BAE2-C6D7D706798D.jpeg",
-      "compressed_path": "./photos/A Foggy Day/6DCDB4BD-1263-4DFB-BAE2-C6D7D706798D.min.jpeg",
-      "compressed": true,
-      "placeholder_path": "./photos/A Foggy Day/6DCDB4BD-1263-4DFB-BAE2-C6D7D706798D.placeholder.jpeg"
+      "path": "./photos/A Foggy Day   (Dec 25 2023)/6DCDB4BD-1263-4DFB-BAE2-C6D7D706798D.jpeg",
+      "compressed_path": "./photos/A Foggy Day   (Dec 25 2023)/6DCDB4BD-1263-4DFB-BAE2-C6D7D706798D.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/A Foggy Day   (Dec 25 2023)/6DCDB4BD-1263-4DFB-BAE2-C6D7D706798D.placeholder.jpeg"
     }
-  ],
-  "Mockups": []
+  ]
 }
